@@ -1,0 +1,38 @@
+img{
+    width:300px;
+}
+header{
+    background-color: pink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.example{
+    color: blueviolet;
+}
+.edu{
+    color:blueviolet;
+
+}
+.contact{
+    color:blueviolet;
+}
+.example1{
+    color:blueviolet;
+}
+.projects{
+    background-color: azure;
+}
+.school{
+    background-color: lightgrey;
+}
+.school2{
+    background-color: lightgrey;
+}
+.work{
+    background-color: antiquewhite;
+}
