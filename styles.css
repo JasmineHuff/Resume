@@ -2,11 +2,13 @@ img{
     width:300px;
 }
 header{
-    background-color: pink;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:black;
+text-shadow: 2px 2px 5px pink; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -25,14 +27,26 @@ p{
     color:blueviolet;
 }
 .projects{
-    background-color: azure;
+    background-color:lightseagreen;
 }
 .school{
-    background-color: lightgrey;
+    background-color: plum;
 }
 .school2{
-    background-color: lightgrey;
+    background-color: plum;
 }
 .work{
-    background-color: antiquewhite;
+    background-color: lightcyan;
+}
+h1{
+    color:black;
+  text-shadow: 2px 2px 5px white, 0 0 25px blue, 0 0 5px purple;
+  font-family: cursive;
+}
+html{
+    box-sizing: border-box;
+}
+.skincareproject img {
+    float: left;
+    
 }
